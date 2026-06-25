@@ -1,9 +1,9 @@
 ```markdown
 # Hi, I'm Ahmed Hesham 👋
 
-🎯 **Aspiring Cybersecurity Professional**
+🎯 **Computer Science Student at New Mansoura University & Aspiring Cybersecurity Professional**
 
-I am currently building a strong foundation in programming, web technologies, and security with the long-term goal of becoming a penetration tester and contributing to bug bounty programs.
+I am a Computer Science student currently building a strong foundation in programming, web technologies, and cybersecurity. My long-term goal is to become a penetration tester, contribute to bug bounty programs, and continue growing into advanced security roles.
 
 ---
 
@@ -16,6 +16,16 @@ I am currently building a strong foundation in programming, web technologies, an
 *   🛡️ Cybersecurity Fundamentals
 
 ---
+
+## 🌱 Currently Learning
+
+- Python Project Development
+- Object-Oriented Programming (OOP)
+- Web Development Fundamentals
+- Git & GitHub Best Practices
+
+---
+
 
 ## 🗺️ Learning Roadmap
 
@@ -84,14 +94,24 @@ A Python Object-Oriented Programming (OOP) project built to manage student recor
 
 ---
 
-## 📍 About Me
+## 🎓 Education
 
-* 🇪🇬 Based in Egypt
-* 🛡️ Passionate about Cybersecurity & Ethical Hacking
-* 📖 Deeply interested in Military History
-* 🔨 Strong preference for project-based learning
+- Computer Science Student at **New Mansoura University**
 
 ---
+
+
+## 📍 About Me
+
+- 🇪🇬 Based in Egypt
+- 🎓 Computer Science Student
+- 🛡️ Aspiring Cybersecurity Professional
+- 🎯 Working toward Bug Bounty and Pentesting
+- 📖 Interested in Military History
+- 🔨 Prefer learning through building projects
+
+---
+
 
 ## 📈 Learning Philosophy
 
@@ -103,6 +123,10 @@ Learn  →  Build  →  Document  →  Publish  →  Improve
 > "I believe practical projects and consistent progress are far more valuable than collecting certificates without applying the knowledge."
 
 ---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/Ahmed-Hesham-Mohamed-Hafez
 
 ⭐️ **Thanks for visiting my profile! Feel free to explore my repositories or reach out.**
 
