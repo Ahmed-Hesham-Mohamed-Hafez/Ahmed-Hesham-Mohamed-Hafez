@@ -88,7 +88,7 @@ A Python Object-Oriented Programming (OOP) project built to manage student recor
 
 | Category | Tools & Languages |
 | --- | --- |
-| **Languages** | Python, HTML5, CSS3 |
+| **Languages** | Python, HTML5, CSS3 , C++ |
 | **Tools & Platforms** | Git, GitHub |
 | **Status** | *Actively learning and expanding this stack.* |
 
