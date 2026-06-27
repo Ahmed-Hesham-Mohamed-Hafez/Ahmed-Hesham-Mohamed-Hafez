@@ -68,6 +68,15 @@ A Python Object-Oriented Programming (OOP) project built to manage student recor
 * **Key Features:** Classes & Objects, Constructors (`__init__`), Lists of Objects, and CRUD Operations.
 * **Interface:** Menu-based command-line program.
 
+* ### 🌐 Portfolio Website
+
+A personal portfolio website built with HTML and CSS to showcase my skills, projects, and career interests.
+
+* **Key Features:** Responsive Design, Navigation Menu, Skills Showcase, Project Cards, Contact Section, and Dark Theme UI.
+* **Technologies:** HTML5, CSS3, Flexbox, CSS Grid, Git, and GitHub Pages.
+* **Purpose:** Practice front-end fundamentals and create a professional online presence.
+
+
 > ⏳ *More projects coming soon as I continue my learning journey.*
 
 ---
